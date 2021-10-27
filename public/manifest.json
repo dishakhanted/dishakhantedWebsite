@@ -1,0 +1,18 @@
+{
+    "short_name": "Disha Khanted",
+    "name": "Disha Khanted: Fashion & Model Photography in Bangalore",
+    "description": "Hi, I'm Disha and I've been taking Photos of Models in Bangalore for 2 years now and I've worked with almost 50 Models. Check out some of my Best Work Here.",
+    "keywords": "Disha Khanted, Fashion Photography in Bangalore, Model Photography in Bangalore, Portrait Photography in Bangalore, Bangalore, Photography Bangalore",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
