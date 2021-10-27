@@ -1,0 +1,14 @@
+.AppBar {
+    width: 100%;
+    text-align: center;
+    background-color: #F0F0F0;
+    padding-top: 6px;
+    padding-bottom: 14px;
+}
+
+.AppBarp {
+    font-size: 3.2em;
+    margin-bottom: 4px;
+    font-family: 'Unica One', cursive;
+    font-weight: 500;
+}

@@ -1,0 +1,32 @@
+
+.Controller {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+
+.Controllernormal {
+    font-size: 2em;
+    font-family: 'Unica One', cursive;
+    padding: 4px;
+    margin: 4px 1px;
+    font-weight: bold;
+    color: gray;
+    cursor: pointer;
+}
+
+.Controllerselected {
+    font-size: 2em;
+    font-family: 'Unica One', cursive;
+    padding: 4px;
+    margin: 4px 1px;
+    font-weight: bold;
+    color: #202020;
+    cursor: pointer;
+}
+
+.Controllernormal:hover {
+    background-color: #d3d3d3;
+}
