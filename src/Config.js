@@ -8,8 +8,8 @@ const importProfiles = [
         name: 'main',
         conf: [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
         last: ['','','','','','2','','','','','','','','','','','','','',''],
-        titles: ['RedLips','Denim','BeachDay','Mauve','DewDay','HighlightNight','MorningSun','OrangeLove','PinkWorld','BasicBlack','Title11','Title12','Title13',
-        'Title14','Title15','Title16','Title17','Title18','Title19','Title20'] 
+        titles: ['RedLips','Denim','BeachDay','Mauve','DewDay','HighlightNight','MorningSun','OrangeLove','PinkWorld','BasicBlack','PowerGirl','Nirvana','LazySunday',
+        'FreckleLove','BlackBoots','PinkLove','JustChillin','BossBoy','BlackShow','DarkBeach'] 
     },{ 
         name: 'brandcampaign',
         conf: [1],
